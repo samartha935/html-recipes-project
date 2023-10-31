@@ -1,0 +1,19 @@
+*{
+    font-family: Monospace , sans-serif;
+    background-color: rgb(255, 255, 148);
+}
+
+h1{
+    text-align: center;
+}
+
+p , ul, li{
+    background : grey;
+    color : white;
+}
+
+h3 , b{
+    background: black;
+    color : white;
+}
+
